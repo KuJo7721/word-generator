@@ -1,3 +1,58 @@
-# word-generator
+# Password generatror
+  
 
-Hello I apoligize for what im turning in. I confused myself big time last week and have been playing catch up ever since. I am getting caught up but this random generator has caused me fits. I understand the parts that go to the generator but i cant get it to work. been working on this for days and i feel that i need to get something turned in.
+  ## Description
+  This application uses HTML and JavaScript to dynamically create a password
+  
+  Demo Link
+  
+  https://kujo7721.github.io/word-generator/
+  
+
+  ## Table of Contents (Optional)
+  
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Tests](#tests)
+  - [Questions](#questions)
+
+  ## Installation
+  No Installation
+
+  
+  
+  
+  ## Usage
+  Go to deployed link and start app
+
+ 
+  
+  ## Contributing
+  Create a pull request
+  
+  
+  
+  ## License
+  
+    
+    
+
+  
+
+  
+  
+  
+  ## Questions
+  [Link to Github page](https://github.com/KuJo7721)
+  If you need any more information please email me @ kjkrueger12@gmail.com
+  
+  
+  
+  ## Tests
+  no tests
+  
+  
+
+
